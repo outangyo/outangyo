@@ -2,7 +2,9 @@
 
 ### Software Developer exploring C# .NET and modern web technologies
 
-- 🌱 I'm currently learning **C# .NET , Java SpringBoot, docker**
+- 🚀 **Featured Project:** **[Asset Management System (ASM)](https://github.com/outangyo/asset-management-system)** — *Full-stack internal web app for enterprise asset tracking.*
+
+- 🌱 I'm currently learning **C# .NET , Java SpringBoot, docker, React, Angular**
 
 - 👨‍💻 My Portfolio **[https://outangyo.github.io/portfolio-website/](https://outangyo.github.io/portfolio-website/)**
 
