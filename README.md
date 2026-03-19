@@ -10,7 +10,7 @@
 
 - 📚 Explore all my repositories **[https://github.com/outangyo?tab=repositories](https://github.com/outangyo?tab=repositories)**
 
-- 📄 Know about my experiences **[https://outangyo.github.io/portfolio-website/files/Resume%20EN%20Developer.pdf](https://outangyo.github.io/portfolio-website/files/Resume%20EN%20Developer.pdf)**
+- 📄 Know about my experiences **[https://outangyo.github.io/portfolio-website/files/Pongkorn_FullStack_Developer_Resume.pdf](https://outangyo.github.io/portfolio-website/files/Pongkorn_FullStack_Developer_Resume.pdf)**
 
 - 📫 How to reach me **pongkorn.l169@gmail.com**
 
